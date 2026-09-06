@@ -5,6 +5,3 @@ Primeiro comecei estruturando o html de forma semântica. Depois fiz o reset do 
 
 
 
-Estilizar primeiramente o body com a questão de altura e largura.
-
-olocar o vh no canto errado, Testando em cantos diferentes do css.
